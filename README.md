@@ -1,8 +1,5 @@
 ### Hi there 👋, Mithun here!!!
 
-<!--
-**Mithun162001/Mithun162001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently studying in Jain University
@@ -13,4 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mithun162001@gmail.com
 - 😄 Pronouns: Mithu, Mochi
 - ⚡ Fun fact: RCB fan from 13 years*
--->
+<!--
+**Mithun162001/Mithun162001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
