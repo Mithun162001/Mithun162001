@@ -5,7 +5,7 @@
 ### Hi there, I'm Mithun - aka Deadbeef 👋
 
 <p align="left">
-<img src="https://media.giphy.com/media/4FQMuOKR6zQRO/giphy.gif" width="50%"></p>
+<img src="https://media.giphy.com/media/l46ChKeGsmsfE3Un6/giphy.gif" width="50%"></p>
 
 [![Website](https://img.shields.io/website?label=Github.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/Mithun162001)
 [![Twitter Follow](https://img.shields.io/twitter/follow/cricmithu16?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=cricmithu16)
@@ -20,8 +20,11 @@
 
 
 ### Languages and Tools:
-<p align="left">
-<img src="https://media.giphy.com/media/gG9fVWJdN41NeiHhzk/giphy.gif" width="50%"></p>
+- Python 3 🐍
+- Java ☕
+- C ©
+- C++ ©++
+- HTML 🕸
 
 [Github]: https://github.com/Mithun162001
 [twitter]: https://twitter.com/cricmithu16
