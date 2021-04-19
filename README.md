@@ -18,16 +18,15 @@
 - 🥅 2021 Goals: Learn behind the scenes of cricket analysis using data 🤞
 - ⚡ Fun fact: Nickname:- Mochi 😁
 
-<br />
 
 ### Languages and Tools:
-<link href="https://languages.abranhe.com/logos.css" rel="stylesheet">Python3
-<i class="programming lang-python"></i>
-<br />
-<br />
+<p align="left">
+<img src="https://media.giphy.com/media/gG9fVWJdN41NeiHhzk/giphy.gif" width="50%"></p>
 
----
-
+[Github]: https://github.com/Mithun162001
+[twitter]: https://twitter.com/cricmithu16
+[instagram]: https://www.instagram.com/mithun162001/
+[linkedin]: https://www.linkedin.com/in/mithun-g-b64163191/
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
@@ -36,9 +35,4 @@
 <!--END_SECTION:activity-->
 
 </details>
-
-[Github]: https://github.com/Mithun162001
-[twitter]: https://twitter.com/cricmithu16
-[instagram]: https://www.instagram.com/mithun162001/
-[linkedin]: https://www.linkedin.com/in/mithun-g-b64163191/
 
