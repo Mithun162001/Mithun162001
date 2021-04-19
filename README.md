@@ -7,7 +7,7 @@
 <p align="left">
 <img src="https://media.giphy.com/media/l46ChKeGsmsfE3Un6/giphy.gif" width="50%"></p>
 
-[![Website](https://img.shields.io/website?label=Github.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/Mithun162001)
+[![Website](https://img.shields.io/website?label=Linkedin.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/mithun-g-b64163191/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/cricmithu16?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=cricmithu16)
 
 ## I'm a student, cricket analyst, data science practitioner!!!
