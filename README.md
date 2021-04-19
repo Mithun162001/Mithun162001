@@ -21,9 +21,7 @@
 <br />
 
 ### Languages and Tools:
-
-$ npm install programming-languages-logos
-<link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
+<link href="https://languages.abranhe.com/logos.css" rel="stylesheet">Python3
 <i class="programming lang-python"></i>
 <br />
 <br />
