@@ -20,13 +20,41 @@
 
 <br />
 <details><summary>Skills</summary>
+  
+### Programming languages I know:-
+  
+![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=whit)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Languages and Tools:
-- Python 3 🐍
-- Java ☕
-- C ©
-- C++ ©++
-- HTML 🕸
+### Libraries I like working with:-
+  
+![pandas](https://img.shields.io/badge/pandas-1.2.4.-green)
+![numpy](https://img.shields.io/badge/numpy-1.20.2-blue)
+![seaborn](https://img.shields.io/badge/seaborn-0.11.1-yellowgreen)
+![scikit-learn](https://img.shields.io/badge/sklearn-0.23-red)
+![plotly](https://img.shields.io/badge/plotly-4.14.3-lightgrey)
+
+### Editors I like to use:-
+
+![vscode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Looking forward to learn:-
+
+![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+</details>
+
+<details><summary>Github stats</summary>
+  
+![Last commit](https://img.shields.io/github/last-commit/Mithun162001/Python-Notebooks?style=for-the-badge)
+![Language count](https://img.shields.io/github/languages/count/Mithun162001/Python-Notebooks?style=for-the-badge)
+
+</details>
 
 [Github]: https://github.com/Mithun162001
 [twitter]: https://twitter.com/cricmithu16
