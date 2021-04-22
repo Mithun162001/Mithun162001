@@ -4,7 +4,7 @@
 
 ### Hi there, I'm Mithun - aka Deadbeef 👋
 
-<img align="right" alt="GIF" height="400px" src="https://media.giphy.com/media/l46ChKeGsmsfE3Un6/giphy.gif" />
+<img align="right" alt="GIF" height="300px" width="400px" src="https://media.giphy.com/media/l46ChKeGsmsfE3Un6/giphy.gif" />
 <p align="left">
 
 [![Website](https://img.shields.io/website?label=Linkedin.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/mithun-g-b64163191/)
