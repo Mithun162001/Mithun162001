@@ -56,7 +56,6 @@
 
 <a href="https://github.com/Mithun162001" >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mithun162001&count_private=true&show_icons=true&locale=en&theme=dracula" alt="Mithun162001" />
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mithun162001&show_icons=true&count_private=true&locale=en&theme=dracula&layout=compact&langs_count=7" alt="Mithun162001" />
 </a>
 
