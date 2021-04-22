@@ -13,11 +13,13 @@
 ## I'm a student, cricket analyst, data science practitioner!!!
 
 - 🏫 Studying at : School of Engineering and Technology(Deemed to be University)
-- 🔭 My blogs have been published at : [![Cricindeed]('https://www.cricindeed.com/indian-pace-bowling-transformation-under-virat-kohli/')](https://www.cricindeed.com/indian-pace-bowling-transformation-under-virat-kohli/)
+- 🔭 My blogs have been published at : [Mithucricketblogs](https://t.co/7ozeBXPDab?amp=1)
 - 🌱 I’m currently learning Data Analysis, ML and R Language 😜
 - 🥅 2021 Goals: Learn behind the scenes of cricket analysis using data 🤞
-- ⚡ Fun fact: Nickname:- Mochi 😁
+- ⚡ Fun fact: Mochi is my Nickname😁
 
+<br />
+<details><summary>Skills</summary>
 
 ### Languages and Tools:
 - Python 3 🐍
