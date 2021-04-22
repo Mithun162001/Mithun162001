@@ -54,18 +54,19 @@
 ![Last commit](https://img.shields.io/github/last-commit/Mithun162001/Python-Notebooks?style=for-the-badge)
 ![Language count](https://img.shields.io/github/languages/count/Mithun162001/Python-Notebooks?style=for-the-badge)
 
-</details>
-
-[Github]: https://github.com/Mithun162001
-[twitter]: https://twitter.com/cricmithu16
-[instagram]: https://www.instagram.com/mithun162001/
-[linkedin]: https://www.linkedin.com/in/mithun-g-b64163191/
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+<a href="https://github.com/Mithun162001" >
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mithun162001&count_private=true&show_icons=true&locale=en&theme=tokyonight" alt="Mithun162001" />
   
-<!--START_SECTION:activity-->
-1. ❗️ Opened repo [#8](https://github.com/Mithun162001/Python-Notebooks) in [Mithun162001/Python-Notebooks](https://github.com/Mithun162001/Python-Notebooks)
-<!--END_SECTION:activity-->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mithun162001&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact&langs_count=7" alt="Mithun162001" />
+</a>
 
 </details>
+## 📫 Contact me at:
+
+<p align="left">
+<a href="https://twitter.com/cricmithu16" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="cricmithu16"  /></a>
+<a href="https://www.linkedin.com/in/mithun-g-b64163191/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mithun G"  /></a>
+<a href="https://www.kaggle.com/mithun162001" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="mithun162001"/></a>
+ <a href="mailto:mithun162001@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mithun G"  /></a>
+</p>
 
