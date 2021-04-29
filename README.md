@@ -55,11 +55,8 @@
 ![Language count](https://img.shields.io/github/languages/count/Mithun162001/Python-Notebooks?style=for-the-badge)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun162001&layout=compact&theme=dark)](https://github.com/Mithun162001?tab=repositories)
-
-
-
-
 <a href="https://github.com/Mithun162001" >
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mithun162001&count_private=true&show_icons=true&locale=en&theme=dark" alt="Mithun162001" />
   
 </a>
