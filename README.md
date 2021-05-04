@@ -8,12 +8,14 @@
 <p align="left">
 
 [![Website](https://img.shields.io/website?label=Linkedin.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/mithun-g-b64163191/)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/cricmithu16?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=cricmithu16)
 
 ## I'm a student, cricket analyst, data science practitioner!!!
 
 - 🏫 Studying at : School of Engineering and Technology(Deemed to be University)
-- 🕸 My website : [My Data Science Portfolio](https://mithun162001.github.io/Portfolio/)
+- 🕸 My website : [My Data Science Portfolio](https://mithun162001.github.io/Portfolio/), 
+                  [My Portfolio Site](https://mithun162001.github.io/#/)
 - 🔭 My blogs have been published at : [Mithucricketblogs](https://t.co/7ozeBXPDab?amp=1)
 - 🌱 I’m currently learning Data Analysis, ML and R Language 😜
 - 🥅 2021 Goals: Learn behind the scenes of cricket analysis using data 🤞
