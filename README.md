@@ -16,7 +16,7 @@
 - 🏫 Studying at : School of Engineering and Technology(Deemed to be University)
 - 🕸 My website : [My Data Science Portfolio](https://mithun162001.github.io/Portfolio/), 
                   [My Portfolio Site](https://mithun162001.github.io/#/),
-                  [My Resume](https://drive.google.com/file/d/1IQEJMGnKZLNPWtq0eZss6aTIobs2Rm1v/view?usp=sharing)
+                  [My Resume](https://drive.google.com/file/d/1IVYiRtnnb87ogogmzrxdMv_D_YjZ4nYE/view?usp=sharing)
 - 🔭 My blogs have been published at : [Mithucricketblogs](https://t.co/7ozeBXPDab?amp=1)
 - 🌱 I’m currently learning Data Analysis, ML and R Language 😜
 - 🥅 2021 Goals: Learn behind the scenes of cricket analysis using data 🤞
