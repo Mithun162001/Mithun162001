@@ -2,7 +2,7 @@
 **Mithun162001/Mithun162001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!-- Actual text -->
 
-### Hi there, I'm Mithun - aka Deadbeef 👋
+### Hi there, I'm Mithun G 👋
 
 <img align="right" alt="GIF" height="450px" width="350px" src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" />
 <p align="left">
@@ -68,7 +68,6 @@
   <img src="https://komarev.com/ghpvc/?username=Mithun162001&style=flat-square" alt="Mithun162001" />
 </details>
 
-[![Mithun's Activity Graph](https://activitygraph.herokuapp.com/graphusername=Mithun&custom_title=Mithun%G's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://mithun162001.github.io/#/)
 
 
 
