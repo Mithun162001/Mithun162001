@@ -91,7 +91,7 @@
 
 <p align="left"> <a href="https://twitter.com/cricmithu16" target="blank"><img src="https://img.shields.io/twitter/follow/cricmithu16?logo=twitter&style=for-the-badge" alt="cricmithu16" /></a> </p>
 
-
+<img src="https://user-images.githubusercontent.com/60751635/161948626-0fa6bf81-f912-4885-9e32-d5f88cad9b4b.png" height="300px">
 
 - 🔭 I’m currently working on [Cyclone Intensity Estimation](https://github.com/Mithun162001/cyclone-intensity-estimation)
 
