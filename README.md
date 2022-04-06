@@ -91,7 +91,11 @@
 
 <p align="left"> <a href="https://twitter.com/cricmithu16" target="blank"><img src="https://img.shields.io/twitter/follow/cricmithu16?logo=twitter&style=for-the-badge" alt="cricmithu16" /></a> </p>
 
+
+
 - 🔭 I’m currently working on [Cyclone Intensity Estimation](https://github.com/Mithun162001/cyclone-intensity-estimation)
+
+<img align='right' src="Mithun G.gif" height="300px">
 
 - 🌱 I’m currently learning **Deep Learning using TensorFlow**
 
