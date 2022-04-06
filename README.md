@@ -95,7 +95,7 @@
 
 - 🔭 I’m currently working on [Cyclone Intensity Estimation](https://github.com/Mithun162001/cyclone-intensity-estimation)
 
-<img align='right' src="Mithun G.gif" height="300px">
+<img align='right' src="Mithun G.gif" width="300px" height="300px">
 
 - 🌱 I’m currently learning **Deep Learning using TensorFlow**
 
